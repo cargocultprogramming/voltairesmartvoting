@@ -48,16 +48,20 @@ Obviously such visionary possibilities come with their own set of challenges. I'
 More about the central idea can be found in the presentation that was submitted with the Project Catalyst proposal:
 <iframe class='myIframe' src="https://docs.google.com/presentation/d/e/2PACX-1vTZZhQ4iaB2vIKjFdFT7PESTnq9rX3T1rZgsM9xghpkScWaNZJ2qRFvbz8ZXnQK_xVPvjF_2aJSLz_P/embed?start=true&loop=true&delayms=5000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="display:block; margin:auto;width:90vw;height:60vh;max-width:740px;"></iframe>
 
-## The Challenge
+## The Challenges for Smart Voting
 
-Before we can go about the more visionary things that I laid out above, we need to acknowledge the Central Challenge of this proposal. Instead of the need for trust in delegatees like the *dReps* mentioned above or elected politicians in modern democracies, we need to trust first and foremost the classification information of the projects / proposals that are put up for voting.
+Before we can go about the more visionary things that I laid out above, and without even going into the technical issues, we need to acknowledge the Central Challenge of this proposal. Instead of the need for trust in delegatees like the *dReps* mentioned above or elected politicians in modern democracies, in _Smart Voting_ we need to trust first and foremost the **classification information** of the projects / proposals that are put up for voting.
 
-Even without any algorithms, having good *OIDs* would make it possible for voters to use those in a similar fashion as currently voting advice applications - just answer a couple of questions and get an ordered list of projects according to your interests.
+Even without any algorithms, having good *OIDs* would make it possible for voters to use those in a similar fashion as currently voting advice applications: just answer a couple of questions and get an ordered list of projects according to your interests.
 
-However reliable, objective classifications of proposals and even the selection of suitable *OIDs* themselves **must** be a transparent community effort or it might become an attack vector (thought arguably a much smaller and indirect one in comparison to direct delegation). Consequently setting up such a system takes a big community effort and the involvement of professionals with experience in the setup of community driven democratic discourse-processes. In a later stage also data scientists need to be involved to identify the *OIDs* that explain the majority of voting differences, find appropriate algorithms for voting and to parametrize them.
+However reliable, objective classifications of proposals and even the selection of suitable *OIDs* themselves **must** be a transparent community effort or it might become an attack vector (thought arguably a much smaller and indirect one compared to direct delegation). Consequently setting up such a system takes a big community effort and the involvement of professionals with experience in the setup of community driven democratic discourse-processes. In a later stage also data scientists need to be involved to identify the *OIDs* that explain the majority of voting differences, find appropriate algorithms for voting and to parametrize them.
 
-## Current Status: Team wanted
+## Current Status: Teambuilding
 
-In order to move forward, a large, competent and sufficiently financed team is necessary as well as the general support of the *Project Catalyst* community and probably also IOHK directly. While funding could possibly be found via *Project Catalyst*, so far there was not enough interest in this idea to move forward with a larger implementation proposal.
+In order to move forward, a large, competent and sufficiently financed team is necessary as well as the general support of the *Project Catalyst* community and probably also IOHK directly. While funding could possibly be found via *Project Catalyst*, so far there was not enough interest in this initiative for it to gain critical mass to move forward with a larger implementation proposal.
 
-If you are interested please do contact me! I'm also happy to contribute any or all of the things laid out here to other projects that are out to achieve similar goals.
+I'm putting up this site to create a focus point for people who are interested in the topic. If you'd like to get involved in any capacity - even just by contributing to this page, please do contact me! I'm also happy to get involved with any or all of the things laid out here in the scope other Cardano projects that are out to achieve similar goals.
+
+### Disclaimer
+
+This page is the result of an initiation funding of _Project Catalyst_. However that does not mean that any of this is endorsed by IOHK, the company that drives Cardano development. For official information have a look at the [Cardano website](https://cardano.org/).
