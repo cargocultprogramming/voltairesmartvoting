@@ -35,3 +35,22 @@ header a.button {
     background-color: $header-before-color;
     color: #e7e7e7ff;
 }
+
+@media only screen and (max-width: 767px) {
+  .inner {
+    width: 767px;
+  }
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  .inner {
+    width: 950px;
+  }
+//  #main-content {
+//    width: 740px;
+//  }
+//  header h1, header h2 {
+//    width: 740px;
+//  }
+}
