@@ -46,7 +46,7 @@ In addition this would open up a wide vista of possibilities that traditional vo
 Obviously such visionary possibilities come with their own set of challenges. I'll briefly touch on the main issue below.
 
 More about the central idea can be found in the presentation that was submitted with the Project Catalyst proposal:
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZZhQ4iaB2vIKjFdFT7PESTnq9rX3T1rZgsM9xghpkScWaNZJ2qRFvbz8ZXnQK_xVPvjF_2aJSLz_P/embed?start=true&loop=true&delayms=5000" frameborder="0" width="801" height="475" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="display:block; margin:auto;"></iframe>
+<iframe class='myIframe' src="https://docs.google.com/presentation/d/e/2PACX-1vTZZhQ4iaB2vIKjFdFT7PESTnq9rX3T1rZgsM9xghpkScWaNZJ2qRFvbz8ZXnQK_xVPvjF_2aJSLz_P/embed?start=true&loop=true&delayms=5000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="display:block; margin:auto;width:90vw;height:60vh;max-width:740px;"></iframe>
 
 ## The Challenge
 
